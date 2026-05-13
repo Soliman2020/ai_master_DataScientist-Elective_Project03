@@ -1,4 +1,5 @@
 scikit-learn
 pandas
 spacy
-notebook
+# notebook
+jupyter  # more convenient than listing only notebook
