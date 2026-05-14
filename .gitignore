@@ -4,6 +4,10 @@
 # project virtual environment
 p3_ds/
 
+#spacy demo
+spacy_demo.py
+spacy_demo.txt
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
