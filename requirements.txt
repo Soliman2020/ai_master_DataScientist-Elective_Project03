@@ -3,3 +3,4 @@ pandas
 spacy
 # notebook
 jupyter  # more convenient than listing only notebook
+matplotlib
