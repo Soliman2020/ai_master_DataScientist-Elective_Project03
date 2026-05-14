@@ -8,6 +8,10 @@ p3_ds/
 spacy_demo.py
 spacy_demo.txt
 
+#tfidf demo
+TfidfVectorizer_demo.py
+TfidfVectorizer_demo.txt
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
